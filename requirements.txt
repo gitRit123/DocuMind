@@ -1,0 +1,28 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg2-binary
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic-settings
+pydantic
+email-validator
+
+# Document parsing
+pypdf2
+python-docx
+pandas
+openpyxl
+
+# Vector store
+faiss-cpu
+numpy
+
+# HTTP client for Ollama
+httpx
+
+# Utilities
+python-dotenv
+aiofiles

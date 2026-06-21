@@ -1,0 +1,21 @@
+# Environments
+venv/
+env/
+.venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Uploads
+backend/uploads/
+backend/faiss_indexes/
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
